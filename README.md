@@ -66,3 +66,9 @@ Fetches the current details of a campaign, including the total pledged amount an
 ---
 
 This contract offers a lightweight and extensible foundation for building full-featured crowdfunding platforms on Stellar's Soroban smart contract framework.
+
+
+
+![Screenshot (97)](https://github.com/user-attachments/assets/9c1fe59e-96eb-4ac4-bfda-cc6d64492ddf)
+
+
